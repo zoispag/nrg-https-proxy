@@ -1,0 +1,12 @@
+{
+    "name": "zoispag/nrg-https-proxy",
+    "authors": [
+        {
+            "name": "Zois Pagoulatos",
+            "email": "zpagoulatos@hotmail.com"
+        }
+    ],
+    "require": {
+        "jenssegers/proxy": "^3.1"
+    }
+}
